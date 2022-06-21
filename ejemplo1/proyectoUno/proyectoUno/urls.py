@@ -23,3 +23,4 @@ urlpatterns = [
     path('administrativo/', include('administrativo.urls')),
     # path('', include('administrativo.urls')),
 ]
+    
